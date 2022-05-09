@@ -1,0 +1,24 @@
+#main{
+    background: #e3cbc7;
+}
+#content{
+    --body-quiet-color: #000000;
+}
+#container{
+    --body-bg: #afc2c8;
+    --darkened-bg: #afc2c8;
+    --selected-bg: #afc2c8;
+    --primary: #309c9f;
+    --header-bg: #309c9f;
+    --message-success-bg: #309c9f;
+    --selected-row: #98bfa0;
+    --body-quiet-color: #000000;
+    --header-link-color: #000000;
+    --body-fg: #000000;
+    --link-fg: #000000;
+    --accent: #000000;
+    --header-color: #000000;
+}
+#results{
+    body-fg: #000;
+}
